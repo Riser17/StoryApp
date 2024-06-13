@@ -57,6 +57,8 @@ npx react-native run-android
 - Handles text selection, showing/hiding the keyboard, and interacting with Agastya AI.
 - User can now select any text in the body (both screens show selected text) and then press an option such as “Make it shorter”. It will send a request to the server and get the response text. Display the response text below body text input.
 
+
 ## Screenshots 
+<img src="https://github.com/Riser17/StoryApp/assets/91198103/c0da6a30-89f2-44bb-832b-4d82fa01ddab" width="300" height="500">
 
 
