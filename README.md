@@ -59,6 +59,10 @@ npx react-native run-android
 
 
 ## Screenshots 
-<img src="https://github.com/Riser17/StoryApp/assets/91198103/c0da6a30-89f2-44bb-832b-4d82fa01ddab" width="300" height="500">
+<img src="https://github.com/Riser17/StoryApp/assets/91198103/c0da6a30-89f2-44bb-832b-4d82fa01ddab" width="300" height="700">
+<video width="300" height="700" controls>
+  <source src="https://github.com/Riser17/StoryApp/assets/91198103/c1d1e664-9ce7-4d32-b72d-ac9bfe4bc7a5" type="video/mp4">
+
+</video>
 
 
