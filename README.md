@@ -8,7 +8,7 @@ This is a React Native application for writing stories, designed for both iOS an
 - Pop-up bar with keyboard and star icons.
 - Use Agastya AI for various text modifications (mock server).
 - Copy selected text to clipboard.
-- Toast notifications for user feedback.
+- Display the response text below body text input.
 
 ## Installation
 
@@ -53,7 +53,7 @@ npx react-native run-android
 ## Code Overview
 
 - The main component containing the app's logic and UI.
-- Manages state for title, subtitle, body, keyboard visibility, Agastya AI           visibility, selected text, and response text.
+- Manages state/ref for title, subtitle, body, keyboard visibility, Agastya AI visibility, selected text, and response text.
 - Handles text selection, showing/hiding the keyboard, and interacting with Agastya AI.
 - User can now select any text in the body (both screens show selected text) and then press an option such as “Make it shorter”. It will send a request to the server and get the response text. Display the response text below body text input.
 
